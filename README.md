@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/AI%20API-FF9AC1?style=flat-square&logo=openai&logoColor=white" alt="AI API" />
 <img src="https://img.shields.io/badge/学习中-FFD9E3?style=flat-square&labelColor=FF7AA2" alt="学习中" />
 <img src="https://img.shields.io/badge/卖萌中-FFC2D4?style=flat-square&labelColor=FF8FB1" alt="卖萌中" />
+<img src="https://komarev.com/ghpvc/?username=RXHrxh520&color=FF8FB1&style=flat-square&label=%E2%9D%A4" alt="主页来访次数" />
 
 <!-- ③ 两行自我介绍 -->
 🐣 安卓小工具爱好者 <br/>
@@ -39,6 +40,5 @@
 
 <!-- ⑦ 收尾 -->
 <sub>谢谢你看到这里 · 顺手点个 ⭐ 也行 (๑•̀ㅂ•́)و✧</sub>
-<img src="https://komarev.com/ghpvc/?username=RXHrxh520&color=FF8FB1&style=flat-square&label=%E2%9D%A4" alt="views" />
 
 </div>
