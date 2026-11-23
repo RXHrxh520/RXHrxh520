@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ① 打字机横幅（原有元素，文案改萌版三行轮播） -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=FF7AA2&center=true&vCenter=true&repeat=true&width=520&height=48&lines=你好呀！我是软小寒+≧▽≦;欢迎来到我的小小窝+🐣;在慢慢变强+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=FF7AA2&center=true&vCenter=true&repeat=true&width=520&height=48&lines=你好呀！我是软小寒+≧▽≦;欢迎来到我的小小窝+🐣;也在慢慢变强哦+✨)](https://git.io/typing-svg)
 
 <!-- ② 一行身份徽章（只放真实的 + 两个卖萌的） -->
 <img src="https://img.shields.io/badge/Java-FFB3C7?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
